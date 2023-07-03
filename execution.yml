@@ -13,3 +13,4 @@ scenarios:
         method: POST url:http://blazedemo.com/reserve.php
         body:
           fromPorts: Paris
+          topPort: Buenos Aires
